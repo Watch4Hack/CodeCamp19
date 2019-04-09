@@ -8,7 +8,7 @@ Necesitamos que consigas recuperar dicha contraseña e iniciar el software para 
 **Fdo: CodeCamp19**
 
 ## **Adjuntos:**
- - [tryHash.pyc](tryHash.pyc)
+ - [triHash.pyc]( 	triHash.pyc)
  
 ### [**Creación**](creation/readme-es.md)
 ### [**Resolucion**](resolution/readme-es.md)
