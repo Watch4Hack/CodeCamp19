@@ -4,6 +4,7 @@ Vemos mediante el uso de *file* que es correcta la extensión del archivo, nos e
 
       binaryshadow@BinaryLaptop:~/ctf$ file triHash.pyc 
       triHash.pyc: python 2.7 byte-compiled
+
       binaryshadow@BinaryLaptop:~/ctf$ python triHash.pyc 
       #####  #####  ###    #####  #####  #####  ### ###  #####     ##  #####
       #      #   #  #  #   #      #      #   #  #  #  #  #   #    # #  #   #
