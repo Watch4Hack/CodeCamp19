@@ -1,4 +1,4 @@
-# **Resolución reto del "Don't Remember"**
+# **Resolución del reto "Don't Remember"**
 
 Vemos mediante el uso de *file* que es correcta la extensión del archivo, nos encontramos con un archivo python compilado, el cual nos solicita al ejecutarse una contraseña.
 
