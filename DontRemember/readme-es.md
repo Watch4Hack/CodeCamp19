@@ -11,4 +11,4 @@ Necesitamos que consigas recuperar dicha contraseña e iniciar el software para 
  - [tryHash.pyc](tryHash.pyc)
  
 
--> [**Resolucion**](/creation/readme-es.md)
+-> [**Resolucion**](creation/readme-es.md)
