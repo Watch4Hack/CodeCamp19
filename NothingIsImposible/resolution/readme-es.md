@@ -1,4 +1,4 @@
-# **Resolución del reto "Don't Remember"**
+# **Resolución del reto "NothingIsImposible"**
 
 - **1**.  Se nos proporcionan dos archivos, un archivo .cpp con la mitad del código de un programa en C++ y el ejecutable compilado. Si analizamos el código encontramos que  hay una condición "*if*" que comprueba si el valor de la variable "*iSecret*" es igual a 256, cosa que nunca sucederá porque su valor máximo solo podrá ser 100.
 
