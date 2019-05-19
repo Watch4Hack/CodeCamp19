@@ -1,7 +1,7 @@
 # **Generación reto "Bitxel2Pit"**
 
 
-- **1**. Implementamos el código del archivo "*programa.cpp*"["*programa.cpp*"](
+- **1**. Implementamos el código del archivo ["*programa.cpp*"](
 https://github.com/Watch4Hack/CodeCamp19/blob/master/Bitxel2Pit/creation/programa.cpp).
 
 - **2**. Compilamos el anterior programa mediante g++ -> *g++ programa.cpp -o ejecutable*
