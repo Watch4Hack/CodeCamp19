@@ -9,7 +9,7 @@
   ![alt text](diferencias.png)
 
 - **3**. Programamos un pequeño programa que recorra ambas imágenes, compare los píxeles y guarde en un archivo el resultado de dicha comparación. Siendo un 1 cuando existan diferencias en el pixel y 0 cuando sean iguales. (En nuestro caso hemos desarrollado el siguiente script en python ["*recuperar_archivo_pixeles.py*"](
-https://github.com/Watch4Hack/CodeCamp19/blob/master/Bitsxl2Pit/resolution/recuperar_archivo_pixeles.py))
+https://github.com/Watch4Hack/CodeCamp19/blob/master/Bitxel2Pit/resolution/recuperar_archivo_pixeles.py))
 
 - **4**. Ejecutamos el programa implementado y guardamos su salida en un fichero -> *python recuperar_archivo_pixeles.py img1.png img2.png archivoSalida*
 
