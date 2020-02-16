@@ -2,7 +2,7 @@
 
 **Pista: "Quizás sea de ayuda un pequeño script, existen librerías simples de tratamiento de imágenes.**
 
-- **1**. Si vemos el contenido del archivo se trata de un monto de unos y ceros. Si reducimos el zoom del terminal podemos ver que se trata de un QR.
+- **1**. Si vemos el contenido del archivo, vemos que se trata de un monton de unos y ceros. Si reducimos el zoom del terminal podemos ver que se trata de un QR.
 ![alt text](fileContent.png)
 ![alt text](QR_in_text.png)
 
