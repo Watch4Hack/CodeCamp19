@@ -1,0 +1,11 @@
+1. Crear script para pasar de QR ASCII a imagen.
+
+2. Escanear código QR con cualquier lector.
+
+	--> INXWIZKDMFWXAMRQGE4XWUKSL5RTAZBTONPTI4RTL5ZTAX3DGAYDC7I=
+
+3. Parece base32, lo decodificamos en CyberChef.
+
+4. La flag es:
+
+	CodeCamp2019{QR_c0d3s_4r3_s0_c001}
