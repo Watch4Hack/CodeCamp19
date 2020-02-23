@@ -1,6 +1,6 @@
-# **Resolución del reto "METAmorphosis"**
+# **Resolución del reto "MonaLisa"**
 
-**Pista: "Algunas imágenes contienen información interesante en sus metadatos."**
+**Pista: "Amplia la imagen si es necesario. A veces puedes añadir archivos dentro con un password de por medio."**
 
 - **1**. Abrimos la imagen y a simple vista en el margen superior derecho se aprecia algo, ampliamos la imagen y vemos el texto: UltraHidden
 
