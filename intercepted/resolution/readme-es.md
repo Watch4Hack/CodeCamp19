@@ -1,4 +1,4 @@
-# **Resolución del reto "METAmorphosis"**
+# **Resolución del reto "intercepted"**
 
 **Pista: "El tipo de cifrado utilizado ha sido de sustitución polialfabético."**
 
